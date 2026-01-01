@@ -4,3 +4,4 @@ Just for practicing how to contribute in opensource projects for gsoc
 
 This REPO is mainly to pratice git & github commands and to contribute in open source project 
 
+<p2>And for future references a git cheatsheet is available in the repo for quick revision
